@@ -1,3 +1,4 @@
+--promjena
 ALTER VIEW [dbo].[ProijebojView]
 AS
 SELECT     dbo.tPrijeboj.IDPrijeboj, dbo.tPrijeboj.Godina, dbo.tPrijeboj.Datum, dbo.tPrijeboj.SIfDuznika, dbo.tPrijeboj.IznosKompenzacije, 
